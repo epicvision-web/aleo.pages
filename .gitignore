@@ -1,3 +1,6 @@
 # Google Drive desktop ini file
 desktop.ini
 
+# Bulk Resource Do not upload to repository!
+_bulk.resources
+
